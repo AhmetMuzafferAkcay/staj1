@@ -341,7 +341,7 @@ Aşağıdaki tablo staj boyunca gerçekleştirilen çalışmaların gün bazınd
 |  15 |   3   | Varargs ve metot tasarımı                                            | Simple Addition Varargs                                                                         |
 |  16 |   4   | Java Collections ve HashSet                                          | HashSet, Gemstones                                                                              |
 |  17 |   4   | LinkedList ve liste işlemleri                                        | LinkedList uygulamaları                                                                         |
-|  18 |   4   | HashMap ve frekans takibi                                            | HashMap, Ransom Note                                                                            |
+|  18 |   4   |Java ile Algoritma Tasarımı ve Güvenli Kodlama Pratikleri teknik sunum                                           | Hackerrank  Problem Çözümleri Üzerinden Sınır, Bellek ve Performans Analizi                                                                            |
 |  19 |   4   | LinkedHashMap ve TreeMap                                             | LinkedHashMap / TreeMap uygulamaları                                                            |
 |  20 |   4   | Java veri yapılarının karşılaştırılması                              | Gemstones, Ransom Note, Frequency Queries, Java Dequeue                                         |
 |  21 |   5   | Java Collections yapılarının genel özellikleri                       | HashSet, LinkedList, HashMap, LinkedHashMap, TreeMap                                            |
